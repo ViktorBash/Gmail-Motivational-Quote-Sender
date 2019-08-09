@@ -1,0 +1,5 @@
+EMAIL_ADDRESS = "Your Address"
+PASSWORD = "Your Password"
+RECIEVER_ADDRESS = "Email Reciever"
+SUBJECT = "Motivational Sentence Of The Day"
+MESSAGE = "Apply yourself today"

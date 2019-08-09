@@ -1,0 +1,11 @@
+Hi! This app only works with gmail right now, (but you can probably tinker with it to get it working
+ with other email providers). These python files were made in Pycharm.
+To make this program work, you need to do 2 things. 
+1. Fill out in the nice_email_messages.py file your information. Ex: Password, email addresses, etc.
+You don't have to fill out the config.py file, because it will automatically get written to and filled
+by the nice_email_messages.py file. 
+2. Go to https://myaccount.google.com/lesssecureapps and turn this feature of gmail on for whatever 
+account is sending the email. If you don't do this, it will not work. 
+Also, this does make the email more vulnerable, so only turn this on when using the email for this, 
+or make an email just to use this program.
+Thanks!
